@@ -1,0 +1,14 @@
+{
+  "name": "cherishTour",
+  "version": "1.0.0",
+  "description": "my node-express-website",
+  "main": "cherishTour.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sundan",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
